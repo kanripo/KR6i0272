@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 635
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0272_T_000-0488b>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0272_T_001-0488b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
@@ -168,7 +168,7 @@ No. 635¶
 觀一切三寶之事使其不斷。是謂，龍王！三十¶
 二法，菩薩應此逮普智心。¶
 
-「又復龍王！有十六事進增普智顯力弘軌。¶
+「又復龍王！有十六事進增普智顯力弘䡄。¶
 何謂十六進普智耶？施行眾濟，具戒無缺，忍¶
 應調忍，果上精進，致定諸行，已具智慧。信行¶
 悉足，供事如來，遊靜樂閑，備六堅法，有最¶
